@@ -1,5 +1,5 @@
 # Confidanz
-Install Vid Conferancing software using Confidanz
+Install Audio and Video Conferancing software using Confidanz
 
 Confidanz can be used to install a variety of video conferancing tools.
 
