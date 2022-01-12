@@ -3,10 +3,10 @@ Install Vid Conferancing software using Confidanz
 
 Confidanz can be used to install a variety of video conferancing tools.
 
-  Skype
-  Microsoft Teams
-  VIPole
-  Zoom
+  -Skype
+  -Microsoft Teams
+  -VIPole 
+  -Zoom
 
 To run Confidanz copy the lines below into your terminal.
 
